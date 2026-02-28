@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Sarah Sawyer - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [sas732@cornell.edu](mailto:sas732@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
 
@@ -19,52 +19,42 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Biological Engineering*  
+  GPA: 3.902/4.3 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Riverside High School and Academy of Science, Academies of Loudoun**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** AutoCAD, SnapGene, Microsoft (Word, Excel, PowerPoint, Teams, Outlook)
+- **Programming:** Python, R
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Bioengineering a System for Managing Sepsis**:  
+  *Culturing mammalian cells and extracting extracellular vesicles to investigate delivery systems. Optimizing methods to enhance intracellular
+  drug uptake for treatment of bloodstream infections. Contributing to a DARPA-funded project developing next-generation strategies for sepsis management*  
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **Nautical Bowls Leesburg - Shift Lead**  
+  May 2024 - Present  
+  - Supervise and coordinate a team of 4-5 employees per shift, ensuring efficient operations
+  - Resolve customer and employee conflicts by applying problem-solving strategies
+  - Maintain store organization and cleanliness in compliance with health and safety standards
+  - Produce social media content for the store to strengthen brand loyalty and foster community engagement  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Director of Volunteers for the Cornell University Food Recovery Network  
+- Vice President of Philanthropy and Service for Sigma Delta Tau at Cornell University
+- Editor for The Healthcare Review at Cornell University
 
 ---
 

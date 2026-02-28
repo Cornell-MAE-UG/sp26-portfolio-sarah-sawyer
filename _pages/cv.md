@@ -8,12 +8,12 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [sas732@cornell.edu](mailto:sas732@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [sas732@cornell.edu](mailto:sas732@cornell.edu) | | | **Phone:** +703 380 4479
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation cell culture techinques and applying engineering principles to the field of biology seeking opportunities in the biomaterials sector.
 
 ---
 

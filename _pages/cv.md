@@ -24,7 +24,7 @@ Aspiring engineering student with a strong foundation cell culture techinques an
 
 - **Riverside High School and Academy of Science, Academies of Loudoun**  
   *High School Diploma*  
-  Graduation: [June, 2024]
+  Graduation: June, 2024
 
 ---
 

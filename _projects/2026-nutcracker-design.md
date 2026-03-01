@@ -19,6 +19,6 @@ Calculations and a free body diagram can be seen here.
 <img src="{{ site.baseurl }}/assets/images/nutcracker-work.jpg" width="600" />
 
 Here is a diagram of my nutcracker design.
-<img src="{{ site.baseurl }}/assets/images/nutcracker-design.jpg" width="600" />
+<img src="{{ site.baseurl }}/assets/images/nutcracker-design.jpg" width="600" />\
 
 The dimensions calculated for the nutcracker seem mostly feasible and adequately account for slight variations in nut size and grip strength above and below the assumed averages, respectively. However, the setup is somewhat large, and a smaller nutcracker may be more practical, especially if the weight of the material, likely metal, used is considered. However, the longer handles make the system ore practical for individuals with lower grip strengths by producing a greater torque, making it valuable in certain scenarios.

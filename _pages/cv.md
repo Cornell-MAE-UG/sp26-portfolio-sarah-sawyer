@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "assets/Sawyer-Sarah-Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [sas732@cornell.edu](mailto:sas732@cornell.edu) | | | **Phone:** +703 380 4479

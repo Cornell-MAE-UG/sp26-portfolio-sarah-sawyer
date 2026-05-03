@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker Design 2
 technologies: n/a
 description: A nutcracker I designed for my Statics class, revisited.
-image: /assets/images/nutcracker-design.jpg
+image: /assets/images/nutcracker-design-2.jpg
 ---
 
 

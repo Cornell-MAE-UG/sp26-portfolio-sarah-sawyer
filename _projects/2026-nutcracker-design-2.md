@@ -26,6 +26,6 @@ First, the location of maximum elastic deformation was calculated using the form
 Therefore, the nutcracker was designed to be made of structural steel, with a cross section of b=5mm and h=10 mm.
 
 Here is a diagram of my new nutcracker design.
-<img src="{{ site.baseurl }}/assets/images/nutcracker-design-2.jpg" width="600" />\
+<img src="{{ site.baseurl }}/assets/images/nutcracker-design-2.jpg" width="600" />
 
 These dimensions feel reasonable and achievable. Structural steel is an affordable, stiff, and durable material, making it a good choice for the design.
